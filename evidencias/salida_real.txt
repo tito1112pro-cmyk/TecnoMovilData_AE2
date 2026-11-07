@@ -1,0 +1,11 @@
+=== TECNOMOVIL DATA ===
+Registros simulados: 9
+Dia analizado: 2026-11-05
+Afluencia por estacion: {Central=3, Sur=2}
+Entradas por hora: {7=3, 8=1, 9=1}
+Horas pico: [7]
+Rutas mas utilizadas: [R1=3, R2=2]
+Patrones de U1: [Central, Norte]
+Promedio entre estaciones: 25.00 minutos
+Rutas criticas (umbral > 2 entradas): [R1]
+PRUEBAS: 7/7 correctas
